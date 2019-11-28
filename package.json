@@ -1,0 +1,11 @@
+{
+  "name": "dosya-senkron",
+  "version": "1.0.0",
+  "description": "bir dosyayı belirli bir sürede başka bir dosyaya kopyalayan uygulama",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
